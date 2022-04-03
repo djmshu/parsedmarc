@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ParseDMARC:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-03T18:51:29.708366673Z"
+    description: A Helm chart for Kubernetes
+    digest: 2b9a949079dfa71aa6a3bc556251d4916a265058be5f4d36c461e14d08485166
+    name: ParseDMARC
+    type: application
+    urls:
+    - https://github.com/djmshu/parsedmarc/releases/download/ParseDMARC-0.1.0/ParseDMARC-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-03T18:51:29.708371673Z"
