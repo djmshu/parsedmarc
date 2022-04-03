@@ -1,0 +1,8 @@
+.github
+docs
+grafana
+kibana
+splunk
+build
+dist
+parsedmarc.egg-info
